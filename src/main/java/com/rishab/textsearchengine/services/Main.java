@@ -1,8 +1,8 @@
 package com.rishab.textsearchengine.services;
 
-import com.raudra.searchengine.config.StopWordsConfig;
-import com.raudra.searchengine.config.WikiPageParsingConstants;
-import com.raudra.searchengine.util.TimeUtil;
+import com.rishab.textsearchengine.config.StopWordsConfig;
+import com.rishab.textsearchengine.config.WikiPageParsingConstants;
+import com.rishab.textsearchengine.util.TimeUtil;
 import org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;

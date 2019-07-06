@@ -1,7 +1,7 @@
 package com.rishab.textsearchengine.services;
 
 
-import com.raudra.searchengine.config.WikiPageParsingConstants;
+import com.rishab.textsearchengine.config.WikiPageParsingConstants;
 
 import java.io.*;
 import java.util.HashMap;

@@ -1,8 +1,8 @@
 package com.rishab.textsearchengine.search;
 
 
-import com.raudra.searchengine.config.WikiPageParsingConstants;
-import com.raudra.searchengine.services.PageParser;
+import com.rishab.textsearchengine.config.WikiPageParsingConstants;
+import com.rishab.textsearchengine.services.PageParser;
 
 import java.util.ArrayList;
 import java.util.Collections;

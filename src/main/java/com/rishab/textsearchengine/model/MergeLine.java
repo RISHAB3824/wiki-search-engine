@@ -1,7 +1,7 @@
 package com.rishab.textsearchengine.model;
 
 
-import com.raudra.searchengine.config.WikiPageParsingConstants;
+import com.rishab.textsearchengine.config.WikiPageParsingConstants;
 
 public class MergeLine implements Comparable<MergeLine> {
 

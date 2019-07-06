@@ -1,10 +1,10 @@
 package com.rishab.textsearchengine.search;
 
-import com.raudra.searchengine.config.WikiPageParsingConstants;
-import com.raudra.searchengine.services.Main;
-import com.raudra.searchengine.services.PageParser;
-import com.raudra.searchengine.services.PageParser.Fields;
-import com.raudra.searchengine.services.Stemmer;
+import com.rishab.textsearchengine.config.WikiPageParsingConstants;
+import com.rishab.textsearchengine.services.Main;
+import com.rishab.textsearchengine.services.PageParser;
+import com.rishab.textsearchengine.services.PageParser.Fields;
+import com.rishab.textsearchengine.services.Stemmer;
 
 import java.io.*;
 import java.util.*;

@@ -1,8 +1,8 @@
 package com.rishab.textsearchengine.services;
 
-import com.raudra.searchengine.config.WikiPageParsingConstants;
-import com.raudra.searchengine.config.XMLPageConfig;
-import com.raudra.searchengine.model.WikiPage;
+import com.rishab.textsearchengine.config.WikiPageParsingConstants;
+import com.rishab.textsearchengine.config.XMLPageConfig;
+import com.rishab.textsearchengine.model.WikiPage;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;

@@ -1,8 +1,8 @@
 package com.rishab.textsearchengine.services;
 
-import com.raudra.searchengine.config.WikiPageParsingConstants;
-import com.raudra.searchengine.model.MergeLine;
-import com.raudra.searchengine.model.WikiPage;
+import com.rishab.textsearchengine.config.WikiPageParsingConstants;
+import com.rishab.textsearchengine.model.MergeLine;
+import com.rishab.textsearchengine.model.WikiPage;
 
 import java.io.*;
 import java.util.*;
@@ -137,7 +137,7 @@ public class PageParser {
             WikiPageParsingConstants.lastDump = System.currentTimeMillis();
             dumpAllWords();
             WikiPageParsingConstants.NumOfPagesInMap = 0;
-            allWords = new TreeMap<>();
+            allWords = new TreeMap();
             System.gc();
         }
     }
